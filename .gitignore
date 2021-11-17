@@ -58,4 +58,4 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
-AppDelegate.m
+/ios/RionVesc/AppDelegate.m
